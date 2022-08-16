@@ -1,3 +1,5 @@
+![background]
+
 # Hello world from kPepperoniPizza!
 
 ### I make videogames. If you have a question, please email me through ***pepperonipizza.main@gmail.com.***
