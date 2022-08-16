@@ -1,4 +1,4 @@
-![background]
+![background](https://github.com/kPepperoniPizza/kPepperoniPizza/blob/main/background.png)
 
 # Hello world from kPepperoniPizza!
 
